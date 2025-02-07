@@ -2,6 +2,10 @@ body {
     background-color: #000;
 }
 
+.logo img {
+    width: 80px;
+}
+
 .sidebar {
     position: fixed;
     top: 0;
@@ -40,6 +44,10 @@ body {
     font-family: "DM Sans", sans-serif;
 }
 
-.logo img {
-    width: 80px;
+.library{
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
 }
+
